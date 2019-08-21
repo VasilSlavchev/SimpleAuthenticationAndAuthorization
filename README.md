@@ -12,7 +12,7 @@ For more informaiton [Apache Authentication and Authorization](http://httpd.apac
 ## You can use in any folder or directory, don't forget to change your credentials for your own usage in .htpasswd file. Example usage is root by default.
 
 # 4. Contribution
-##Contribution or extands are very welcome in repository of github or bitbucket. This projects is free for usage in both commercial and Private use.
+## Contribution or extands are very welcome in repository of github or bitbucket. This projects is free for usage in both commercial and Private use.
 
 # License
 ## [MIT](https://choosealicense.com/licenses/mit/)
